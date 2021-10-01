@@ -14,6 +14,9 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "FAST Conversion",
+  "categories": [
+    "ANALYTICS", "CONVERSIONS"
+  ],
   "brand": {
     "id": "smarketer-de",
     "displayName": "Smarketer GmbH",
