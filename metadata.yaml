@@ -1,5 +1,5 @@
 homepage: "https://smarketer.de"
 documentation: "https://www.smarketer.de/cookie-less-tracking/"
 versions:
-  - sha: _
+  - sha: ba871bfde9268a9ade8adaef90cee6a04ffd813c
     changeNotes: Initial Version
